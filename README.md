@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email :- chotaliyauday24@gmail.com
-- 😄 Pronouns: Uday
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
 
 <!---
