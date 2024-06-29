@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uday-24
+- 👋 Hi, I’m Uday Chotaliya
 - 👀 I’m interested in Web-development and AI 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
