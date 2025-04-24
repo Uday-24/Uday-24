@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Uday Chotaliya
-- 👀 I’m interested in Web-development and AI 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Backend-development
+- 🌱 I’m currently learning Node JS and Mongo DB
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email :- chotaliyauday24@gmail.com
 - 😄 Pronouns: He / Him
